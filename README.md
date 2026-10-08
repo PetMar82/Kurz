@@ -10,3 +10,4 @@ git push - pošle commit do GitHubu na remote
 git pull - výtáhnestáhne nové změny z remote repozitáře z GitHubu
 
 lfdhbaldbf
+ hgdgmhg
