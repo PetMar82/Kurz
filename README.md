@@ -8,3 +8,5 @@ git add . - zastageuje
 git commit -m "" - uloží změny
 git push - pošle commit do GitHubu na remote
 git pull - výtáhnestáhne nové změny z remote repozitáře z GitHubu
+
+lfdhbaldbf
